@@ -112,8 +112,8 @@ int main()
         for( size_t i = 0; i < lines.size(); i++ )
         {
             Vec4i l = lines[i];  // we have 4 elements p1=x1,y1  p2= x2,y2
-            Scalar greenColor= Scalar(0,250,30);  // B=0 G=250 R=30
-            line( ROI, Point(l[0], l[1]), Point(l[2], l[3]), greenColor, 3, CV_AA);
+            Scalar redColor= Scalar(0,30,250);  // B=0 G=250 R=30
+            line( ROI, Point(l[0], l[1]), Point(l[2], l[3]), redColor, 3, CV_AA);
 
         }
 
