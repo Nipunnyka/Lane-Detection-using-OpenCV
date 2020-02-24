@@ -9,8 +9,4 @@ Step 4: Using hough line transformation detect edges (rho and theta are detremin
 Step 5: Display the transformed frame
 
 ## output 
-<table>
-	<tr>	
-		<td align="center"><a href="test_op.png" width="600px;" alt="image of output"/> </td>
-	</tr>
-</table>
+![](test_op.png)
