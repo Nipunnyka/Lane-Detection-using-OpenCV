@@ -11,6 +11,6 @@ Step 5: Display the transformed frame
 ## output 
 <table>
 	<tr>	
-		<td align="center"><a href="https://raw.githubusercontent.com/Nipunnyka/Lane-Detection-using-OpenCV/master/test_op.png" width="600px;" alt="image of output"/> </td>
+		<td align="center"><a href="test_op.png" width="600px;" alt="image of output"/> </td>
 	</tr>
 </table>
